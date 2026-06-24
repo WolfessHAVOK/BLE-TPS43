@@ -1,0 +1,6 @@
+SDA > D6
+SCL > D7
+VCC and GND are connected appropriately
+RST > D1
+RDY >  D0
+
