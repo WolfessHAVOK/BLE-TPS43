@@ -1,6 +1,6 @@
 # BLE-TPS43
 
-Driver taken and adapted from [AYM1607's ZMK Driver Code]([https://example.com](https://github.com/AYM1607/zmk-driver-azoteq-iqs5xx))
+Driver taken and adapted from [AYM1607's ZMK Driver Code](https://github.com/AYM1607/zmk-driver-azoteq-iqs5xx)
 
 ```
 pio run -e adafruit_feather_nrf52840
